@@ -1,0 +1,166 @@
+/*most of mobile phones*/
+@media (min-width:320px ) and (max-width: 480px ){
+	/*css start*/ 
+        .banner h4 {
+	    font-size: 18px;
+	    line-height: 28px;
+	    font-weight: 600;
+	    color: #FD511A;
+	    margin: 10px 0px;
+}
+
+		.banner h1 {
+	    font-size: 1.5rem;
+	    line-height: 2.5rem;
+	    font-weight: 700;
+	    margin: 10px 0px 1px 0px;
+	}
+       .learn-section .learn-feature {
+	    background-color: #F8FFFB;
+	    padding: 20px;
+	    border: 0.5px solid #eee;
+	    border-radius: 10px;
+	    text-align: center;
+	    margin: 15px 0px;
+}
+	   .online-course .title {
+	    text-align: center;
+	    background: ;
+	    padding: 5px 0px 20px;
+	    font-size: 40px;
+	    line-height: 50px;
+	    font-weight: 700;
+	    margin: 0px 0px 30px;
+}
+.online-course .card {
+	    padding: 10px;
+	    background-color: #fff;
+	    border-radius: 10px;
+	    box-shadow: 0px 10px 40px rgba(0,0,0,0.1);
+	    margin: 20px 0px;
+
+}
+.testimonial .man {
+	    margin: 0px 0px 0px 70px;
+	    border: 2px solid #000;
+	    border-radius: 50%;
+}
+.fotter .fotter-p {
+		 font-size: 14px;
+		line-height: 24px;
+		font-weight: 500;
+		color: #fff;
+}
+.widget h4 {
+	    font-size: 30px;
+	    line-height: 40px;
+	    font-weight: 600;
+	    color: #fff;
+	}
+	.fotter .copyright {
+	    color: #ffffff;
+	    text-align: center;
+	    padding: 20px 0px 0px;
+	    font-size: 12px;
+	    line-height: 26px;
+	    font-weight: 500;
+}
+.fotter .copyright span {
+	    font-size: 14px;
+	    font-size:;
+	    letter-spacing: 1px;
+	    font-weight: 500;
+}
+
+	/*css end*/
+
+}
+
+
+/*most of the mobile phones potrate mode and low rasulation tablate */
+@media (min-width: 481px ) and (max-width: 767px ){
+	/*css start*/ 
+    .banner h4 {
+	    font-size: 18px;
+	    line-height: 28px;
+	    font-weight: 600;
+	    color: #FD511A;
+	    margin: 10px 0px;
+}
+
+		.banner h1 {
+	    font-size: 1.5rem;
+	    line-height: 2.5rem;
+	    font-weight: 700;
+	    margin: 10px 0px 1px 0px;
+	}
+       .learn-section .learn-feature {
+	    background-color: #F8FFFB;
+	    padding: 20px;
+	    border: 0.5px solid #eee;
+	    border-radius: 10px;
+	    text-align: center;
+	    margin: 15px 0px;
+}
+	   .online-course .title {
+	    text-align: center;
+	    background: ;
+	    padding: 5px 0px 20px;
+	    font-size: 40px;
+	    line-height: 50px;
+	    font-weight: 700;
+	    margin: 0px 0px 30px;
+}
+.online-course .card {
+	    padding: 10px;
+	    background-color: #fff;
+	    border-radius: 10px;
+	    box-shadow: 0px 10px 40px rgba(0,0,0,0.1);
+	    margin: 20px 0px;
+
+}
+.testimonial .man {
+	    margin: 0px 0px 0px 70px;
+	    border: 2px solid #000;
+	    border-radius: 50%;
+}
+.fotter .fotter-p {
+		 font-size: 14px;
+		line-height: 24px;
+		font-weight: 500;
+		color: #fff;
+}
+.widget h4 {
+	    font-size: 30px;
+	    line-height: 40px;
+	    font-weight: 600;
+	    color: #fff;
+	}
+	.fotter .copyright {
+	    color: #ffffff;
+	    text-align: center;
+	    padding: 20px 0px 0px;
+	    font-size: 12px;
+	    line-height: 26px;
+	    font-weight: 500;
+}
+.fotter .copyright span {
+	    font-size: 14px;
+	    font-size:;
+	    letter-spacing: 1px;
+	    font-weight: 500;
+}
+
+	/*css end*/
+
+}
+
+
+/*most of the tablate & notebook*/
+@media (min-width: 768px ) and (max-width: 1024px){
+	/*css start*/ 
+
+
+	/*css end*/
+
+}

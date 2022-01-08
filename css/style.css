@@ -1,0 +1,344 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-size: 15px;
+	line-height: 25px;
+	font-family: 
+}
+h1, h2, h3, h4, h5, h6,{
+
+}
+a, a:hover{
+	text-decoration: none;
+}
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::
+E-School goese here
+::::::::::::::::::::::::::::::::::::::::::::::::;:;
+*/
+
+.header-section{
+	width: 100%;
+	padding: 10px 0px;
+	background: #F0FFF0;
+
+}
+.bg-light{
+	background: transparent !important;
+}
+
+/*menu start*/
+.header-section .navbar-light .navbar-nav .nav-link {
+    color: #000;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    margin: 0px 10px;
+}
+.header-section .navbar-light .navbar-nav .nav-link:hover{
+	color: blue;
+}
+
+.header-section .btn-success {
+    color: #198754;
+    background-color: #fff;
+    border-color: #198754;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 600;
+    margin: 0px 10px;
+    border-radius: 33px;
+    padding: 5px 20px;
+}
+.header-section .btn-success:hover, .header-section .btn-success:focus{
+	color:  #fff;
+    background-color: #198754;
+    border-color: #198754;
+   
+}
+.header-section .btn-primary{
+	 color: #fff;
+     background-color: #0d6efd;
+     border-color: #0d6efd;
+	 font-size: 20px;
+    line-height: 36px;
+    font-weight: 600;
+    margin: 0px 10px;
+    border-radius: 33px;
+    padding: 5px 20px;
+
+}
+.header-section .btn-primary:hover, .header-section .btn-primary:focus{
+	 color: #0d6efd;
+     background-color: #fff;
+     border-color: #0d6efd;
+}
+
+.header-section .navbar-light .navbar-nav .nav-link.active{
+
+    color: #000;
+    font-size: 20px;
+    border: 1px solid;
+    font-weight:600;
+}
+/*menu end*/
+
+/*baner start*/
+
+.banner{
+	width: 100%;
+	padding: 50px;
+}
+.banner h4{
+	font-size: 24px;
+    line-height: 35px;
+    font-weight: 600;
+   color: #FD511A;
+   margin: 10px 0px;
+
+
+}
+.banner h1{
+    font-size: 4.5rem;
+    line-height: 5.5rem;
+    font-weight: 700;
+    margin: 15px 0px 30px 0px;
+}
+.banner p{
+    margin-bottom: ;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+    color: #000;
+    margin: 10px 0px 20px;
+    font-style: normal;
+}
+
+
+.banner h1 span{
+	color: #21B573;
+
+}
+.banner .btn-success {
+    color: #198754;
+    background-color: #fff;
+    border-color: #198754;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 600;
+    margin: 20px auto;
+    border-radius: 33px;
+    padding: 5px 20px;
+}
+.banner .banner-img{
+	width: 90%;
+}
+/*baner start*/
+
+/*learn section start*/
+.learn-section{
+	width: 100%;
+	padding: 50px;
+}
+.learn-section .learn-feature{
+     background-color: #F8FFFB;
+     padding: 20px;
+     border:0.5px solid #eee;
+     border-radius: 10px;
+     text-align: center;
+}
+.learn-section .learn-feature h3{
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 600;
+    margin: 10px auto;
+}
+.learn-section .learn-feature p{
+	 font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    margin: 10px 0px 0px;
+}
+.learn-section .learn-feature:hover{
+	background: #fff;
+	box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.2);
+	border: 0px;
+
+
+}
+.learn-section .learn-feature .learn-photo{
+	width: 150px;
+	height: 150px;
+}
+/*learn section end*/
+
+
+/*online-course section start*/
+.online-course{
+	width: 100%;
+	padding: 10px 0px 20px;
+
+}
+.online-course .title{
+	text-align: center;
+	background: ;
+	padding: 5px 0px 20px;
+	font-size: 50px;
+	line-height: 62px;
+	font-weight: 600;
+	margin: 0px 0px 30px;
+}
+.online-course .card{
+	padding: 20px;
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0px 10px 40px rgba(0,0,0,0.1);
+}
+.online-course .card .main-img{
+	border-radius: 10px;
+
+}
+.online-course .card .card-body {
+    flex: 1 1 auto;
+    padding: 1rem 0rem;
+}
+
+.online-course .card .card-title{
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 500;
+    font-style: normal;
+    color: #000;
+    letter-spacing: 1px;
+}
+
+
+.online-course .card .card-text{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    margin: 0px 0px 10px;
+}
+.online-course .card .btn-success{
+	color: #fff;
+	background-color: #198754;
+	border-color: #198754;
+	border-radius: 33px;
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 600;
+ 
+}
+.online-course .card .btn-success:hover, .online-course .card .btn-success:focus{
+	color: #198754;
+	background-color: #fff;
+	border-color: #198754;
+}
+.online-course .card .date{
+	width: 100%;
+	margin: 30px 0px 0px;
+}
+.online-course .card .seat{
+	width: 100%;
+	margin: 30px 0px 0px;
+}
+.online-course .card p{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 600;
+    color: #000;
+    margin: 0px 0px 0px;
+}
+.online-course .date-img{
+	margin: 5px 0px;
+}
+/*online section end*/
+
+
+
+
+/*testimonial start*/
+
+ .testimonial{
+ 	width: 100%;
+ 	padding: 80px 0px;
+ }
+.testimonial .test{
+	text-align: center;
+}
+
+.testimonial h1{
+	font-size: 40px;
+	line-height: 50px;
+	font-weight: 700;
+	margin: 0px 0px 60px;
+}
+
+.testimonial .man{
+	margin: 0px 0px 0px 100px;
+	border:2px solid #000;
+	border-radius: 50%;
+}
+
+.testimonial p{
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 500;
+	margin: 8px 0px 0px;
+}
+/*testimonial end*/
+
+/*fotter section start*/
+.fotter{
+	width: 100%;
+	padding: 50px 0px 10px;
+	background-color: #282531;
+}
+.fotter .fotter-p{
+	font-size: 18px;
+	line-height: 28px;
+	font-weight: 500;
+	color: #fff;
+}
+.widget{
+	width: 100%;
+	
+}
+.widget h4{
+	font-size: 25px;
+	line-height: 35px;
+	font-weight: 500;
+	color: #fff;
+}
+.widget ul{
+	padding: 0px;
+}
+.widget ul li{
+	list-style: none;
+}
+.widget ul li a{
+	display: block;
+	font-size: 15px;
+	line-height: 25px;
+	font-weight: 400;
+	color: #fff;
+	margin: 0px 0px 10px;
+}
+.fotter .copyright{
+	color: #ffffff;
+	text-align: center;
+	padding: 20px 0px 0px;
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 500;
+}
+.fotter .copyright span{
+	font-size: 25px;
+	font-size: bold;
+	letter-spacing: 3px;
+	font-weight: 600;
+}
+/*fotter section end*/
